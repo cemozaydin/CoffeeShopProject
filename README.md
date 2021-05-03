@@ -10,17 +10,12 @@
 
 ## <font color="cyan"> Senaryo </font>
 
-========== 
-
-
 Kahve dükkanları için müşteri yönetimi yapan bir sistem yazmak istiyoruz.
 Örneğimizde Starbucks ve Nero firmaları için çalışıyoruz. Sistem esnek olduğu için yeni firma eklendiğinde mevcut kodları bozmadan eklemelerimizi yapabileceğiz.
 
 <br>
 
 ## <font color="cyan"> İstekler  </font>
-
-===========
 
 * İki firmada müşterilerini veri tabanına kaydetmek istiyor. (*Burada gerçek bir veri tabanı bağlantısı yapılmayacaktır, sadece yapılmış gibi simüle edilecektir.*)
 
